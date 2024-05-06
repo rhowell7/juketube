@@ -49,6 +49,7 @@ To set up your API key:
 var config = {
     YOUTUBE_API_KEY: 'your-api-key'
 }
+```
 
 ## Possible enhancements
 
