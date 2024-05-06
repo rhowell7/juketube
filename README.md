@@ -39,7 +39,16 @@ JukeTube is an attempt to simplify this scenario.
 
 ## Requirements
 
-You only need a valid [YouTube Data API v3 key](https://developers.google.com/youtube/v3/) to copy-paste in **app.js**. (The current one only works on my domain).
+You need a valid [YouTube Data API v3 key](https://developers.google.com/youtube/v3/) to copy-paste in **config.js**.
+To set up your API key:
+
+1. Create a new file in the project directory named `config.js`.
+2. In `config.js`, add the following code, replacing `'your-api-key'` with your actual API key:
+
+```javascript
+var config = {
+    YOUTUBE_API_KEY: 'your-api-key'
+}
 
 ## Possible enhancements
 
