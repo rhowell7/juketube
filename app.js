@@ -39,6 +39,9 @@ app.service('VideosService', ['$window', '$rootScope', '$log', function ($window
     {id: 'AgFeZr5ptV8', title: 'Taylor Swift - 22'},
     {id: '8ClyXbLv7pA', title: 'The Point of No Return | Immortal Technique'},
     {id: 'v0dUnoecoZ0', title: 'Days N Daze - Misanthropic Drunken Loner [Official Music Video]'},
+    {id: '1YJ0PzIMtAs', title: 'Jane Bell - MOTHER ATE (Lyrics) crazy how the very first sin was a woman who ate'},
+    {id: 'fgDQyFeBBIo', title: "MACKLEMORE - HIND'S HALL"},
+    {id: 'NZVMopW_jUo', title: "IT GIRL - ALIYAH'S INTERLUDE 💖 (OFFICIAL MUSIC VIDEO)"},
     {id: 'Kt-tLuszKBA', title: 'Guardians of the Galaxy: Awesome Mix (Vol. 1 & Vol. 2) (Full Soundtrack)'},
     {id: 'vU62x2PnSO4', title: 'Girl Talk - Feed The Animals (Full Album)'}
   ];
